@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm ANKIT KUMAR</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd0ZndoODQzZzlqdjZ3eDJtZmZrdGd1azYzOXU3ZGQ5cWs0YXp2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit3060&label=Profile%20views&color=0e75b6&style=flat" alt="ankit3060" /> </p>
 
