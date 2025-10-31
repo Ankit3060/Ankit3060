@@ -1,41 +1,67 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
-<h1 align="center">Hi 👋, I'm ANKIT KUMAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://ankit3060.github.io)
+<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit3060&label=Profile%20views&color=0e75b6&style=flat" alt="ankit3060" /> </p>
+---
 
-- 🔭 I’m currently working on [Full Stack Projects (Save Mate)](https://github.com/Ankit3060/Save-Mate)
-
-- 🌱 I’m currently learning **DevOps, AWS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ankit3060?tab=repositories](https://github.com/Ankit3060?tab=repositories)
-
-- 📝 I regularly write articles on [https://hashnode.com/@ankit3060](https://hashnode.com/@ankit3060)
-
-- 💬 Ask me about **React, Node.js, Backend, Frontend, DataBase**
-
-- 📫 How to reach me **ankit330660@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YaCnpLw2MrYrZA54eOwdypnAymB1gfDn/view?usp=sharing](https://drive.google.com/file/d/1YaCnpLw2MrYrZA54eOwdypnAymB1gfDn/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ankit330660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit330660" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit-kumar-511b31229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-kumar-511b31229" height="30" width="40" /></a>
-<a href="https://codesandbox.com/u/dtspecial330660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dtspecial330660" height="30" width="40" /></a>
-<a href="https://kaggle.com/ankit3060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankit3060" height="30" width="40" /></a>
-<a href="https://instagram.com/ankit_ak33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_ak33" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ankit3060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="ankit3060" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ankit330660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankit330660" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ankit3j4xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankit3j4xv" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankit3060&label=Profile%20views&color=0e75b6&style=flat" alt="ankit3060" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit3060&show_icons=true&locale=en&layout=compact" alt="ankit3060" /></p>
+### 🧠 About Me  
+- 🔭 Currently working on **[Save Mate (Full Stack Project)](https://github.com/Ankit3060/Save-Mate)**  
+- 🌱 Learning **DevOps, AWS, and Cloud Infrastructure**  
+- 📝 I regularly write articles on **[Hashnode](https://hashnode.com/@ankit3060)**  
+- 💬 Ask me about **React, Node.js, Express, MongoDB, and REST APIs**  
+- 📫 Reach me at **ankit330660@gmail.com**  
+- 📄 Know more about me → [**Resume**](https://drive.google.com/file/d/1YaCnpLw2MrYrZA54eOwdypnAymB1gfDn/view?usp=sharing)  
+- 👨‍💻 All my projects → [**GitHub Repositories**](https://github.com/Ankit3060?tab=repositories)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit3060&show_icons=true&locale=en" alt="ankit3060" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit3060&" alt="ankit3060" /></p>
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://twitter.com/ankit330660"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://linkedin.com/in/ankit-kumar-511b31229"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://codesandbox.io/u/dtspecial330660"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="40"/></a>
+  <a href="https://kaggle.com/ankit3060"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40"/></a>
+  <a href="https://instagram.com/ankit_ak33"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://hashnode.com/@ankit3060"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="40"/></a>
+  <a href="https://www.hackerrank.com/ankit330660"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/ankit3j4xv"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40"/></a>
+</p>
 
+---
+
+### 🛠️ Languages and Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,cpp,aws,git,docker,kubernetes,postman,redux,tailwind,figma,linux,jenkins,bootstrap,tensorflow" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<div align="center">
+
+<a href="https://github.com/ankit3060">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ankit3060&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit3060&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit3060&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### ⚡ Fun Fact  
+💡 *"I believe good design is as important as good logic — a clean UI with optimized backend makes magic happen ✨"*
+
+---
+
+<h4 align="center">Thanks for visiting my profile ❤️</h4>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B8FF&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing+Together!;Open+Source+Enthusiast+🌍;MERN+Stack+Developer+💻;Always+Learning+New+Things+🚀">
+</p>
